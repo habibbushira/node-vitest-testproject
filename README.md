@@ -1,3 +1,6 @@
+## To install the project
+npm install
+
 ## To build the project
 npm run build
 
